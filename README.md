@@ -1,1 +1,0 @@
-# Tulika Pal UX Portfolio 

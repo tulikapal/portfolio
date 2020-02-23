@@ -1,0 +1,37 @@
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 4;
+		--web-view-id: Web_1920___4;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920___4 {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 5696px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 4;
+		--web-view-id: Web_1920___4;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	.ic_clear_24px {
+		overflow: visible;
+		position: absolute;
+		width: 23px;
+		height: 22px;
+		left: 1822px;
+		top: 66px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
