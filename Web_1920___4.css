@@ -25,13 +25,5 @@
 		--web-application: true;
 		--web-enable-deep-linking: true;
 	}
-	.ic_clear_24px {
-		overflow: visible;
-		position: absolute;
-		width: 23px;
-		height: 22px;
-		left: 1822px;
-		top: 66px;
-		transform: matrix(1,0,0,1,0,0);
-	}
+
 }
